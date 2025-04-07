@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scipy
+open3d
+pyrealsense2
